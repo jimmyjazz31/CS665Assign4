@@ -1,1 +1,2 @@
-# CS665Assign4
+# CS665Assign4 
+***With this assignment, starting with Part1 the use of the Decorator pattern gives some benefits in the form of being able to include other attributes of the object without altering its main behavour.  So in this part, where we want to get a return of a transaction, of which there are only 2 we have been able to use decorator in order to enhance the basic no frills transaction with no descriptor to ones that have logging details, including timestamps and security and both. 
